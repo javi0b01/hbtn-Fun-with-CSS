@@ -1,0 +1,19 @@
+a {
+  color: #A31D3C;
+  text-decoration: none;
+  position: relative;
+}
+a::before {
+  position: absolute;
+  content: "";
+  background-color: #A31D3C;
+  height: 2px;
+  bottom: 0;
+  width: 0;
+  transition: width 0.4s;
+  visibility: hidden;
+}
+a:hover::before {
+  width: 100%;
+  visibility: visible;
+}
