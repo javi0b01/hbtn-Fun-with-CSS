@@ -1,12 +1,11 @@
 # Specializations
 ## Web Stack programming ― Just for fun!
-### :copyright: **[Holberton School](https://www.holbertonschool.com/)**
 
-# Fun-with-CSS
+### Fun-with-CSS
 :open_file_folder: Web Stack programming ― Just for fun!  
 :bust_in_silhouette: by Guillaume, CTO at Holberton School  
-:copyright: **[Holberton School](https://www.holbertonschool.com/)**
-## General
+
+#### General
 In this project, you will experiment and implement fun layout with HTML and CSS ONLY!  
 Yes, no JavaScript!  
 Enjoy!
@@ -20,6 +19,6 @@ A ```README.md``` file.
 * [ ] 2. Toggle
 * [ ] 3. Menu
 
-## Software engineer
-Javier Andrés Garzón Patarroyo  
-:octocat: [GitHub](https://github.com/javierandresgp/)
+## Software Developer
+Built by [javi](https://github.com/javi0x00) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
