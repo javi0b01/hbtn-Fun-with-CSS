@@ -2,8 +2,7 @@
 ## Web Stack programming ― Just for fun!
 
 ### Fun-with-CSS
-:open_file_folder: Web Stack programming ― Just for fun!  
-:bust_in_silhouette: by Guillaume, CTO at Holberton School  
+:open_file_folder: Web Stack programming ― Just for fun!
 
 #### General
 In this project, you will experiment and implement fun layout with HTML and CSS ONLY!  
@@ -20,5 +19,5 @@ A ```README.md``` file.
 * [ ] 3. Menu
 
 ## Software Developer
-Built by [javi](https://github.com/javi0x00) :copyright: 2020  
-Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0x00/).
+Built by [Javi](https://github.com/javi0b01) :copyright: 2020  
+Found a bug or have an idea? [Contact me](https://www.linkedin.com/in/javi0b01/).
